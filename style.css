@@ -127,9 +127,6 @@ main {
     width: auto;
 }
 
-footer {
-    background-color: var(--main-bg);
-
 .avatar-p {
     padding-left: 25px;
 }
