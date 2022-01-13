@@ -77,12 +77,13 @@ main {
     ;
 }
 
-.main-info h2 {
+.main-info h1 {
     color: var(--white);
     font-weight: 400;
+    font-size: 25px;
 }
 
-.main-info h2:hover {
+.main-info h1:hover {
     color: var(--cyan);
 }
 
